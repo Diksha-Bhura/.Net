@@ -1,0 +1,309 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Syncfusion.Compression.Base/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.XlsIO.WinForms/21.1.41": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.1.41",
+          "Syncfusion.Licensing": "21.1.41"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Syncfusion.Compression.Base/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.XlsIO.WinForms/21.1.41": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.1.41",
+          "Syncfusion.Licensing": "21.1.41"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Syncfusion.Compression.Base/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.XlsIO.WinForms/21.1.41": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.1.41",
+          "Syncfusion.Licensing": "21.1.41"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Syncfusion.Compression.Base/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Compression.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.1.41": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.XlsIO.WinForms/21.1.41": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "21.1.41",
+          "Syncfusion.Licensing": "21.1.41"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.XlsIO.Base.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Compression.Base/21.1.41": {
+      "sha512": "65rgHe5xEvsNnn+OLgj5dSulIozStlS6a8iPcff6jxvMmlP4LSmzGSaObtAQ/nc52DDfwUaTX3vADSZX9Elnig==",
+      "type": "package",
+      "path": "syncfusion.compression.base/21.1.41",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net40/Syncfusion.Compression.Base.dll",
+        "lib/net40/Syncfusion.Compression.Base.xml",
+        "lib/net45/Syncfusion.Compression.Base.dll",
+        "lib/net45/Syncfusion.Compression.Base.xml",
+        "lib/net451/Syncfusion.Compression.Base.dll",
+        "lib/net451/Syncfusion.Compression.Base.xml",
+        "lib/net46/Syncfusion.Compression.Base.dll",
+        "lib/net46/Syncfusion.Compression.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.Compression.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Compression.Base.xml",
+        "syncfusion.compression.base.21.1.41.nupkg.sha512",
+        "syncfusion.compression.base.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/21.1.41": {
+      "sha512": "biZ5e9sMtHUhb6wKozaZEa5X7yB0J46LjqMp6YVKYKaUWcVe0606xriIbT3GcAtyBIC6CqLywONXhy2IYAbgYA==",
+      "type": "package",
+      "path": "syncfusion.licensing/21.1.41",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net6.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net6.0/Syncfusion.Licensing.dll",
+        "lib/net7.0-windows7.0/Syncfusion.Licensing.dll",
+        "lib/net7.0/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.21.1.41.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.XlsIO.WinForms/21.1.41": {
+      "sha512": "9i2d2deO1tuEAc0LCamAdfz3x2n87v3YNGKIdRj4Vsirhn/BAuN8NfJ47GZGwy3nQk0n4SbTe2ykKFd9YfgNkw==",
+      "type": "package",
+      "path": "syncfusion.xlsio.winforms/21.1.41",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.XlsIO.Base.dll",
+        "lib/net40/Syncfusion.XlsIO.Base.xml",
+        "lib/net45/Syncfusion.XlsIO.Base.dll",
+        "lib/net45/Syncfusion.XlsIO.Base.xml",
+        "lib/net451/Syncfusion.XlsIO.Base.dll",
+        "lib/net451/Syncfusion.XlsIO.Base.xml",
+        "lib/net46/Syncfusion.XlsIO.Base.dll",
+        "lib/net46/Syncfusion.XlsIO.Base.xml",
+        "lib/net6.0-windows7.0/Syncfusion.XlsIO.Base.dll",
+        "lib/net6.0-windows7.0/Syncfusion.XlsIO.Base.xml",
+        "syncfusion.xlsio.winforms.21.1.41.nupkg.sha512",
+        "syncfusion.xlsio.winforms.nuspec",
+        "syncfusion_logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Syncfusion.XlsIO.WinForms >= 21.1.41"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\azureadmin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Diksha\\BSTFS\\BSResearchWork\\AzureFunctionLogging\\ReadExcel\\ReadExcel\\ReadExcel.csproj",
+      "projectName": "ReadExcel",
+      "projectPath": "C:\\Diksha\\BSTFS\\BSResearchWork\\AzureFunctionLogging\\ReadExcel\\ReadExcel\\ReadExcel.csproj",
+      "packagesPath": "C:\\Users\\azureadmin\\.nuget\\packages\\",
+      "outputPath": "C:\\Diksha\\BSTFS\\BSResearchWork\\AzureFunctionLogging\\ReadExcel\\ReadExcel\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\azureadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Syncfusion.XlsIO.WinForms": {
+            "target": "Package",
+            "version": "[21.1.41, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\Syncfusion.Licensing.dll
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.AssemblyReference.cache
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.SuggestedBindingRedirects.cache
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Diksha\BSTFS\BSResearchWork\AzureFunctionLogging\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb

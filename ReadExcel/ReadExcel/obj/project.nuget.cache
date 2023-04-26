@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQsqOf1Hg47XOt67Mj4YUo8KlLWOk6q3UZZmr9AzJogmpaCHtb4D24Fz3LgDUMkHbcijLsa+e5zZM4/1hkUJvg==",
+  "success": true,
+  "projectFilePath": "C:\\Diksha\\BSTFS\\BSResearchWork\\AzureFunctionLogging\\ReadExcel\\ReadExcel\\ReadExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azureadmin\\.nuget\\packages\\syncfusion.compression.base\\21.1.41\\syncfusion.compression.base.21.1.41.nupkg.sha512",
+    "C:\\Users\\azureadmin\\.nuget\\packages\\syncfusion.licensing\\21.1.41\\syncfusion.licensing.21.1.41.nupkg.sha512",
+    "C:\\Users\\azureadmin\\.nuget\\packages\\syncfusion.xlsio.winforms\\21.1.41\\syncfusion.xlsio.winforms.21.1.41.nupkg.sha512"
+  ],
+  "logs": []
+}
